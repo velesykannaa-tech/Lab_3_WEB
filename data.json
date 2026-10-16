@@ -1,0 +1,81 @@
+{
+  "catalogName": "Системний диск C:",
+  "updatedAt": "2026-10-15T10:00:00Z",
+  "items": [
+    {
+      "id": "root",
+      "name": "Root",
+      "path": "/",
+      "type": "folder",
+      "isHidden": false,
+      "sizeKb": 0,
+      "children": [
+        {
+          "id": "docs",
+          "name": "Documents",
+          "path": "/Documents",
+          "type": "folder",
+          "isHidden": false,
+          "sizeKb": 0,
+          "children": [
+            {
+              "id": "f1",
+              "name": "report.pdf",
+              "path": "/Documents/report.pdf",
+              "type": "file",
+              "isHidden": false,
+              "sizeKb": 1200,
+              "extension": "pdf"
+            },
+            {
+              "id": "f2",
+              "name": ".secret_notes.txt",
+              "path": "/Documents/.secret_notes.txt",
+              "type": "file",
+              "isHidden": true,
+              "sizeKb": 15,
+              "extension": "txt"
+            }
+          ]
+        },
+        {
+          "id": "projects",
+          "name": "Projects",
+          "path": "/Projects",
+          "type": "folder",
+          "isHidden": false,
+          "sizeKb": 0,
+          "children": [
+            {
+              "id": "f3",
+              "name": "app.js",
+              "path": "/Projects/app.js",
+              "type": "file",
+              "isHidden": false,
+              "sizeKb": 45,
+              "extension": "js"
+            },
+            {
+              "id": "f4",
+              "name": ".env",
+              "path": "/Projects/.env",
+              "type": "file",
+              "isHidden": true,
+              "sizeKb": 2,
+              "extension": "env"
+            }
+          ]
+        },
+        {
+          "id": "f5",
+          "name": "image.png",
+          "path": "/image.png",
+          "type": "file",
+          "isHidden": false,
+          "sizeKb": 3500,
+          "extension": "png"
+        }
+      ]
+    }
+  ]
+}
